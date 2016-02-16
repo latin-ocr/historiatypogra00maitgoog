@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./historiatypogra00maitgoog_0296.png"; bbox 0 0 746 1200; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 133 66 554 102">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 133 66 554 102">
+     <span class='ocr_line' id='line_1_1' title="bbox 133 66 554 102; baseline 0.002 -11"><span class='ocrx_word' id='word_1_1' title='bbox 133 76 179 92; x_wconf 85' lang='lat'>100</span> <span class='ocrx_word' id='word_1_2' title='bbox 215 67 339 102; x_wconf 75' lang='lat' dir='ltr'>Catalogus</span> <span class='ocrx_word' id='word_1_3' title='bbox 358 66 491 98; x_wconf 81' lang='lat' dir='ltr'><strong>Librorum,</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 510 70 554 92; x_wconf 76' lang='grc' dir='ltr'>διο.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 178 109 617 221">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 179 109 617 135">
+     <span class='ocr_line' id='line_1_2' title="bbox 179 109 617 135; baseline 0.002 -7"><span class='ocrx_word' id='word_1_5' title='bbox 179 109 241 129; x_wconf 81' lang='lat' dir='ltr'>Psalm.</span> <span class='ocrx_word' id='word_1_6' title='bbox 436 115 489 135; x_wconf 76' lang='lat'><em>¹523-</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 504 109 556 134; x_wconf 80' lang='lat'>1528.</span> <span class='ocrx_word' id='word_1_8' title='bbox 570 116 617 135; x_wconf 69' lang='lat'>1541:</span> 
+     </span>
+    </p>
+
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 178 137 615 163">
+     <span class='ocr_line' id='line_1_3' title="bbox 178 137 615 163; baseline 0.002 -7"><span class='ocrx_word' id='word_1_9' title='bbox 178 138 262 163; x_wconf 82' lang='lat' dir='ltr'>Prophet.</span> <span class='ocrx_word' id='word_1_10' title='bbox 271 138 290 156; x_wconf 73' lang='grc' dir='ltr'>δε</span> <span class='ocrx_word' id='word_1_11' title='bbox 298 137 380 156; x_wconf 68' lang='lat' dir='ltr'>Maehab.</span> <span class='ocrx_word' id='word_1_12' title='bbox 436 143 490 162; x_wconf 85' lang='lat'>¹5²4·</span> <span class='ocrx_word' id='word_1_13' title='bbox 505 140 557 163; x_wconf 83' lang='lat'>1526.</span> <span class='ocrx_word' id='word_1_14' title='bbox 571 143 615 163; x_wconf 82' lang='lat'>¹53¹</span> 
+     </span>
+    </p>
+
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 179 166 617 221">
+     <span class='ocr_line' id='line_1_4' title="bbox 179 166 557 195; baseline -0.005 -7"><span class='ocrx_word' id='word_1_15' title='bbox 179 166 313 188; x_wconf 65' lang='grc' dir='ltr'><strong>Νον-Τσωιι.</strong></span> <span class='ocrx_word' id='word_1_16' title='bbox 339 171 457 193; x_wconf 65' lang='lat' dir='ltr'>utu-1532·</span> <span class='ocrx_word' id='word_1_17' title='bbox 482 166 557 195; x_wconf 63' lang='lat' dir='ltr'>&amp;quud</span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 401 194 617 221; baseline -0.019 -4"><span class='ocrx_word' id='word_1_18' title='bbox 401 194 483 221; x_wconf 51' lang='lat' dir='ltr'>12&amp;on</span> <span class='ocrx_word' id='word_1_19' title='bbox 503 194 522 215; x_wconf 76' lang='lat'>8.</span> <span class='ocrx_word' id='word_1_20' title='bbox 532 194 555 217; x_wconf 77' lang='lat' dir='ltr'>G.</span> <span class='ocrx_word' id='word_1_21' title='bbox 570 200 617 221; x_wconf 66' lang='lat' dir='ltr'>uffo</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 481 921 614 950">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 481 921 614 950">
+     <span class='ocr_line' id='line_1_6' title="bbox 481 921 614 950; baseline 0 -5"><span class='ocrx_word' id='word_1_22' title='bbox 481 921 614 950; x_wconf 78' lang='lat' dir='ltr'>INTER-</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
